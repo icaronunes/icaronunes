@@ -1,5 +1,5 @@
-<p>
-Ícaro Nunes
+
+## Ícaro Nunes
 
 Programador Android e Web(React) formado em processamento de Dados pela antiga Uniban (atual Anhanguera) em 2011.
 
@@ -11,11 +11,9 @@ Criador do aplicativo de informações sobre filmes,serie e intérpretes. Aplica
 <img src="https://img.shields.io:/github/last-commit/icaronunes/popcornshow">
 
 <br>
-<br>
 
 ## Trabalhando 
 <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-
 
 ## Brincando com essas coisas 💡
 <div>
@@ -26,8 +24,6 @@ Criador do aplicativo de informações sobre filmes,serie e intérpretes. Aplica
 <img src=https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=333333 />
 <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white />
 </div>
-<br/>
-
 
 ## Links
 [<img alt="linked-in"
