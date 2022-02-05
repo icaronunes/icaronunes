@@ -5,7 +5,7 @@ Programador Android e Web(React) formado em processamento de Dados pela antiga U
 
 Criador do aplicativo de informações sobre filmes,serie e intérpretes. Aplicativo com +500.000 instalações.
 <br><img alt="link popCorn show" src="https://firebasestorage.googleapis.com/v0/b/livro-android-1327.appspot.com/o/ic_launcher.png?alt=media&token=46723f6c-331e-4ae9-a5c2-1b930d42aca7" width="24px" height="24px" />
-<a href="https://play.google.com/store/apps/details?id=br.com.icaro.filme&hl=pt-BR">PopCornShow</a>
+<a href="https://play.google.com/store/apps/details?id=br.com.icaro.filme&hl=pt-BR" target="_blank">PopCornShow</a>
 <img alt="react" src="https://firebasestorage.googleapis.com/v0/b/livro-android-1327.appspot.com/o/ic_launcher.png?alt=media&token=46723f6c-331e-4ae9-a5c2-1b930d42aca7" width="24px" height="24px" />
 </p>
 <img src="https://img.shields.io:/github/last-commit/icaronunes/popcornshow">
