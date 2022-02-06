@@ -1,6 +1,9 @@
 name: Generate Datas
-
 on:
+  push:
+    branches: yml
+  pull_request:
+    branches: main, master
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
