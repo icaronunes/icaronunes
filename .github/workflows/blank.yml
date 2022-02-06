@@ -1,8 +1,6 @@
 name: Generate Datas
 on:
-  push:
-    branches: yml
-  pull_request:
+  push: 
     branches: main, master
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
