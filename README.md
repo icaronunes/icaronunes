@@ -1,4 +1,4 @@
- ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/icaronunes/icaronunes/blob/output/github-contribution-grid-snake.svg)
 
 ## Ícaro Nunes
 
