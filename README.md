@@ -1,3 +1,4 @@
+ ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 
 ## Ícaro Nunes
 
@@ -24,6 +25,14 @@ Criador do aplicativo de informações sobre filmes,serie e intérpretes. Aplica
 <img src=https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=333333 />
 <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white />
 </div>
+
+## Resumo Git
+<div>
+  <a href="https://github.com/icaronunes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaronunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaronunes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 
 ## Links
 [<img alt="linked-in"
