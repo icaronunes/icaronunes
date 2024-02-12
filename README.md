@@ -1,6 +1,6 @@
- ![Snake animation](https://github.com/icaronunes/icaronunes/blob/output/github-contribution-grid-snake.svg)
-
 ## Ícaro Nunes 👓
+
+![Snake animation](https://github.com/icaronunes/icaronunes/blob/output/ocean.gif?raw=true)
 
 Programador Android e entusiasta de várias tecnologias nas horas vagas; formado em 2011 na antiga Uniban em SP.
 
