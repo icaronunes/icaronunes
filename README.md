@@ -2,7 +2,7 @@
 
 ![Snake animation](https://github.com/icaronunes/icaronunes/blob/output/ocean.gif?raw=true)
 
-Programador Android e entusiasta de várias tecnologias nas horas vagas; formado em 2011 na antiga Uniban em SP.
+Programador Android e outras paradas.
 
 Criador do aplicativo de informações sobre filmes/séries, com mais de 500 mil instalações. Confira
 <br><img alt="link popCorn show" src="https://firebasestorage.googleapis.com/v0/b/livro-android-1327.appspot.com/o/ic_launcher.png?alt=media&token=46723f6c-331e-4ae9-a5c2-1b930d42aca7" width="24px" height="24px" />
