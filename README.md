@@ -19,7 +19,7 @@ Criador do aplicativo de informações sobre filmes/séries, com mais de 500 mil
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-eb6d1d?&style=for-the-badge&logo=kotlin&logoColor=#336dd1" />
 </div>
 
-## Brincando com essas coisas 💡
+## Brincando com essas coisas
 <div>
 <img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -29,7 +29,7 @@ Criador do aplicativo de informações sobre filmes/séries, com mais de 500 mil
 <img alt="NextJs" src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white />
 </div>
 
-## Resumo Git 👈
+## Resumo Git
 <div>
   <a href="https://github.com/icaronunes">
   <img height="160em" width="50%" src="https://github-readme-stats-icaronunes.vercel.app/api?username=icaronunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
